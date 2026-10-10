@@ -36,4 +36,3 @@ inamigos-ai-internship/
 ## Author
 
 Madapa Mithra
-B.Tech in Computer Science and Engineering, Assam University, Silchar
